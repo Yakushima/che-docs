@@ -8,7 +8,7 @@ permalink: /:categories/spring-boot/
 {% include base.html %}
 Spring Boot is Spring's convention-over-configuration solution for creating stand-alone, production-grade Spring based Applications that you can "just run". This page provides a quick configuration guide to get started with Spring Boot within Che.
 
-*Insructions - Create a New Workspace*
+*Instructions - Create a New Workspace*
 ```text  
 # In the dashboard, create a new project and import from source:
 https://github.com/che-samples/web-java-spring-boot
